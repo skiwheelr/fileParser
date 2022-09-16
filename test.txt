@@ -1,0 +1,4 @@
+car building car car 
+building tower settlement grip
+camera lightpost car car
+playhouse garage car
